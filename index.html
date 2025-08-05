@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title class="title">Quiz title</title>
+    <link rel="stylesheet" href="ww2-quiz.css" />
+  </head>
+  <body>
+    <img alt="Quiz Image" src="#" class="main__img" />
+    <section class="main__box">
+      <h1 class="quiz__title">Quiz title</h1>
+      <p class="quiz__text">Quiz description</p>
+      <button class="start__button">Start</button>
+    </section>
+    <div class="questions__box hidden">
+      <h2 class="question">Question goes here</h2>
+      <p class="question__number">1 of 10</p>
+      <div class="question__containers">
+        <button class="option__btn">Option A</button>
+        <button class="option__btn">Option B</button>
+        <button class="option__btn">Option C</button>
+        <button class="option__btn">Option D</button>
+      </div>
+      <p class="answer__text hidden">Correct answer: A.</p>
+      <p class="explanation__text hidden">Explanation goes here.</p>
+      <button class="next__button">Next</button>
+    </div>
+    <div class="quiz__results hidden">
+      <h3 class="results__title">Quiz Results</h3>
+      <div class="result__circle">
+        <p class="result__number">5 of 10</p>
+      </div>
+      <p class="results__text">The text.</p>
+      <button class="again__button">Play Again</button>
+    </div>
+    <script src="ww2-quiz.js"></script>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+  </body>
+</html>

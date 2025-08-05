@@ -1,0 +1,279 @@
+{
+  "title": "World War II Quiz",
+  "introduction": "Challenge yourself with key facts and events from World War II, including battles, leaders, and turning points.",
+  "intro_image": "ww2-banner.jpg",
+  "questions": [
+    {
+      "question": "What event triggered the start of World War II?",
+      "options": [
+        "Attack on Pearl Harbor",
+        "Germany's invasion of Poland",
+        "Signing of the Treaty of Versailles",
+        "Battle of Britain"
+      ],
+      "correct_answer": "Germany's invasion of Poland",
+      "explanation": "World War II began on September 1, 1939, when Germany invaded Poland, prompting Britain and France to declare war."
+    },
+    {
+      "question": "Which countries made up the Axis Powers?",
+      "options": [
+        "Germany, Italy, Japan",
+        "Britain, France, USA",
+        "Soviet Union, USA, Britain",
+        "Germany, Soviet Union, Italy"
+      ],
+      "correct_answer": "Germany, Italy, Japan",
+      "explanation": "The Axis Powers were primarily Germany, Italy, and Japan."
+    },
+    {
+      "question": "Who was the British Prime Minister for most of World War II?",
+      "options": [
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Clement Attlee",
+        "Margaret Thatcher"
+      ],
+      "correct_answer": "Winston Churchill",
+      "explanation": "Winston Churchill became Prime Minister in 1940 and led Britain through much of WWII."
+    },
+    {
+      "question": "What was the codename for the Allied invasion of Normandy?",
+      "options": [
+        "Operation Overlord",
+        "Operation Barbarossa",
+        "Operation Torch",
+        "Operation Market Garden"
+      ],
+      "correct_answer": "Operation Overlord",
+      "explanation": "Operation Overlord was the codename for the D-Day invasion on June 6, 1944."
+    },
+    {
+      "question": "Which battle is considered the turning point in the Pacific War?",
+      "options": [
+        "Battle of Midway",
+        "Battle of Coral Sea",
+        "Battle of Iwo Jima",
+        "Battle of Leyte Gulf"
+      ],
+      "correct_answer": "Battle of Midway",
+      "explanation": "The Battle of Midway in June 1942 was a decisive victory for the U.S., shifting momentum in the Pacific."
+    },
+    {
+      "question": "What was the purpose of the Manhattan Project?",
+      "options": [
+        "Building aircraft carriers",
+        "Developing the atomic bomb",
+        "Cryptography and code-breaking",
+        "Training Allied pilots"
+      ],
+      "correct_answer": "Developing the atomic bomb",
+      "explanation": "The Manhattan Project was the secret U.S. program to develop nuclear weapons."
+    },
+    {
+      "question": "Who was the leader of Nazi Germany during WWII?",
+      "options": [
+        "Adolf Hitler",
+        "Joseph Stalin",
+        "Benito Mussolini",
+        "Hideki Tojo"
+      ],
+      "correct_answer": "Adolf Hitler",
+      "explanation": "Adolf Hitler was the dictator of Nazi Germany from 1934 to 1945."
+    },
+    {
+      "question": "Which country was invaded by Germany in 1941, breaking the non-aggression pact?",
+      "options": ["Poland", "France", "Soviet Union", "Czechoslovakia"],
+      "correct_answer": "Soviet Union",
+      "explanation": "Germany launched Operation Barbarossa and invaded the Soviet Union in June 1941."
+    },
+    {
+      "question": "What was the Holocaust?",
+      "options": [
+        "A series of battles in Europe",
+        "The genocide of six million Jews by Nazi Germany",
+        "An economic crisis in Germany",
+        "An alliance treaty"
+      ],
+      "correct_answer": "The genocide of six million Jews by Nazi Germany",
+      "explanation": "The Holocaust was the systematic murder of six million Jews and millions of other minorities by the Nazis."
+    },
+    {
+      "question": "When did the United States enter World War II?",
+      "options": ["1939", "1940", "1941", "1942"],
+      "correct_answer": "1941",
+      "explanation": "The U.S. entered the war after Japan attacked Pearl Harbor on December 7, 1941."
+    },
+    {
+      "question": "What was the primary purpose of the Lend-Lease Act?",
+      "options": [
+        "To provide military aid to Allied nations",
+        "To enforce a naval blockade",
+        "To draft soldiers into the military",
+        "To establish the United Nations"
+      ],
+      "correct_answer": "To provide military aid to Allied nations",
+      "explanation": "The Lend-Lease Act allowed the U.S. to supply allies with weapons and materials before officially entering the war."
+    },
+    {
+      "question": "Which city was the first to be attacked with an atomic bomb?",
+      "options": ["Nagasaki", "Tokyo", "Hiroshima", "Osaka"],
+      "correct_answer": "Hiroshima",
+      "explanation": "Hiroshima was bombed by the U.S. on August 6, 1945."
+    },
+    {
+      "question": "What was the significance of the Battle of Stalingrad?",
+      "options": [
+        "First use of tanks",
+        "Major Soviet victory turning the tide on the Eastern Front",
+        "A failed German invasion of France",
+        "Naval battle in the Atlantic"
+      ],
+      "correct_answer": "Major Soviet victory turning the tide on the Eastern Front",
+      "explanation": "The Battle of Stalingrad (1942-43) was a brutal battle resulting in a decisive Soviet victory."
+    },
+    {
+      "question": "What was the 'Blitz'?",
+      "options": [
+        "German submarine warfare",
+        "Intense bombing campaign against Britain",
+        "An Allied amphibious assault",
+        "A Soviet offensive"
+      ],
+      "correct_answer": "Intense bombing campaign against Britain",
+      "explanation": "The Blitz was Germany’s sustained aerial bombing of British cities in 1940-41."
+    },
+    {
+      "question": "Who was the Supreme Commander of the Allied Forces in Europe?",
+      "options": [
+        "Dwight D. Eisenhower",
+        "George S. Patton",
+        "Douglas MacArthur",
+        "Bernard Montgomery"
+      ],
+      "correct_answer": "Dwight D. Eisenhower",
+      "explanation": "Eisenhower led the Allied invasion of Europe and coordinated the campaign to defeat Nazi Germany."
+    },
+    {
+      "question": "What was the significance of the Yalta Conference?",
+      "options": [
+        "Planning the D-Day invasion",
+        "Agreement on post-war Europe between Allied leaders",
+        "The end of the war in the Pacific",
+        "The formation of NATO"
+      ],
+      "correct_answer": "Agreement on post-war Europe between Allied leaders",
+      "explanation": "In 1945, Roosevelt, Churchill, and Stalin met at Yalta to discuss post-war Europe's reorganization."
+    },
+    {
+      "question": "Which country switched sides from the Axis to the Allies during the war?",
+      "options": ["Japan", "Italy", "Hungary", "Romania"],
+      "correct_answer": "Italy",
+      "explanation": "Italy surrendered in 1943 and later joined the Allies against Germany."
+    },
+    {
+      "question": "What was the primary role of women in the Allied war effort?",
+      "options": [
+        "Fighting on the front lines",
+        "Working in factories and supporting war production",
+        "Running the government",
+        "Spying behind enemy lines"
+      ],
+      "correct_answer": "Working in factories and supporting war production",
+      "explanation": "Women took on crucial roles in manufacturing weapons and supplies during the war."
+    },
+    {
+      "question": "What was the code name for the German invasion of the Soviet Union?",
+      "options": [
+        "Operation Sea Lion",
+        "Operation Barbarossa",
+        "Operation Market Garden",
+        "Operation Torch"
+      ],
+      "correct_answer": "Operation Barbarossa",
+      "explanation": "This was Germany's massive invasion of the Soviet Union in June 1941."
+    },
+    {
+      "question": "Which conference decided on the division of Germany after WWII?",
+      "options": [
+        "Tehran Conference",
+        "Yalta Conference",
+        "Potsdam Conference",
+        "Munich Conference"
+      ],
+      "correct_answer": "Yalta Conference",
+      "explanation": "The Yalta Conference in February 1945 set plans for Germany’s division and post-war Europe."
+    },
+    {
+      "question": "What was the significance of the Battle of El Alamein?",
+      "options": [
+        "A major defeat for the Soviets",
+        "Turning point in the North African campaign",
+        "First battle with tanks",
+        "Last naval battle in the Pacific"
+      ],
+      "correct_answer": "Turning point in the North African campaign",
+      "explanation": "The Allied victory at El Alamein halted Axis advances in North Africa in 1942."
+    },
+    {
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "options": [
+        "Nikita Khrushchev",
+        "Joseph Stalin",
+        "Leon Trotsky",
+        "Vladimir Lenin"
+      ],
+      "correct_answer": "Joseph Stalin",
+      "explanation": "Stalin led the USSR through WWII and was a key Allied leader."
+    },
+    {
+      "question": "Which event caused the United States to declare war on Japan?",
+      "options": [
+        "Attack on Pearl Harbor",
+        "Battle of Midway",
+        "Doolittle Raid",
+        "Invasion of Manchuria"
+      ],
+      "correct_answer": "Attack on Pearl Harbor",
+      "explanation": "Japan's surprise attack on Pearl Harbor on December 7, 1941, led the US to enter WWII."
+    },
+    {
+      "question": "What was the main goal of the United Nations, founded after WWII?",
+      "options": [
+        "Promote world peace and cooperation",
+        "Control global trade",
+        "Prevent nuclear weapons development",
+        "Rebuild war-torn Europe"
+      ],
+      "correct_answer": "Promote world peace and cooperation",
+      "explanation": "The UN was created to prevent future global conflicts and promote cooperation."
+    },
+    {
+      "question": "Which battle was the largest amphibious invasion in history?",
+      "options": [
+        "Battle of Guadalcanal",
+        "Battle of Okinawa",
+        "D-Day (Normandy Invasion)",
+        "Battle of Leyte Gulf"
+      ],
+      "correct_answer": "D-Day (Normandy Invasion)",
+      "explanation": "The D-Day landings on June 6, 1944, involved massive Allied forces invading Nazi-occupied France."
+    },
+    {
+      "question": "What was the outcome of the Nuremberg Trials?",
+      "options": [
+        "Peace treaty with Germany",
+        "Trials prosecuting Nazi war criminals",
+        "Establishment of Israel",
+        "Formation of NATO"
+      ],
+      "correct_answer": "Trials prosecuting Nazi war criminals",
+      "explanation": "The Nuremberg Trials held Nazi leaders accountable for war crimes after WWII."
+    },
+    {
+      "question": "Which country suffered the highest military and civilian casualties in WWII?",
+      "options": ["Germany", "United States", "Soviet Union", "Japan"],
+      "correct_answer": "Soviet Union",
+      "explanation": "The Soviet Union experienced the largest loss of life during the war."
+    }
+  ]
+}
